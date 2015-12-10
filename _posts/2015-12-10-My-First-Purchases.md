@@ -11,15 +11,15 @@ categories: miscellaneous
 
 <ul style="list-style: none;">
 <li>1. Cold-pressed juicer</li>
-<p>2. Electric keyboard</p>
-<p>3. Acoustic guitar</p>
-<p>4. A complete wardrobe makeover - primarily shoes, shirts and pants</p>
-<p>5. A few gifts for family and friends</p>
-<p>6. Donate</p>
-<p>7. Donate</p>
-<p>8. Donate</p>
-<p>9. Donate</p>
-<p>10. Donate</p>
+<li>2. Electric keyboard</li>
+<li>3. Acoustic guitar</li>
+<li>4. A complete wardrobe makeover - primarily shoes, shirts and pants</li>
+<li>5. A few gifts for family and friends</li>
+<li>6. Donate</li>
+<li>7. Donate</li>
+<li>8. Donate</li>
+<li>9. Donate</li>
+<li>10. Donate</li>
 </ul>
 
 <p>I didn't put 6 - 10 to be a hardo. I've simply come to the realization that possessions are meaningless. Life is about giving and helping others. Spreading love and hope is <a href="https://www.youtube.com/watch?v=ylT16QB6Uig#t=0m28s">free99.</a></p>
