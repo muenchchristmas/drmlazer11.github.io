@@ -19,4 +19,4 @@ categories: miscellaneous
 
 <p>Won't you do the same, won't you keep us afloat?</p>
 
-<p style="color: #333; font-weight: bold;">Won't you do the same, won't you step off the boat?</p>
+<p>Won't you do the same, won't you <span style="color: #333; font-weight: bold;">step off the boat?</span></p>
