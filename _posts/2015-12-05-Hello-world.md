@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World
+title: Hello world!
 ---
 
 <p>Welcome to my blog! This site will host my thoughts for the foreseeable future. I will try to post as frequently as possible.</p>
