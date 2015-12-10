@@ -11,7 +11,7 @@ categories: miscellaneous
 
 <p>As I sit here and contemplate, these memories we share,</p>
 
-<p>I can't help but wonder just where | where | where.</p>
+<p>I can't help but wonder, just where | where | where.</p>
 
 <p>I pray and I pray, oh and I hope and I hope,</p>
 
