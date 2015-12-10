@@ -13,7 +13,7 @@ categories: miscellaneous
 <li>1. Cold-pressed juicer</li>
 <li>2. Electric keyboard</li>
 <li>3. Acoustic guitar</li>
-<li>4. A complete wardrobe makeover - primarily shoes, shirts and pants</li>
+<li>4. New shoes, shirts and pants</li>
 <li>5. A few gifts for family and friends</li>
 <li>6. Donate</li>
 <li>7. Donate</li>
