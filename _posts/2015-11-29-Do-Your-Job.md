@@ -11,6 +11,4 @@ categories: miscellaneous
 
 <p>All of this brings me to tonight. After a long day of reviewing error-ridden code, I decided to stop by the local Subway to grab a quick bite to eat. They call themselves "sandwich artists." Sandwich artist my ass. This guy was more like a sandwich assassin! Just butchering the process. Visibly bothered that I had interrupted his texting conversation, he proceeded to add heaps of lettuce (after clear instruction that I did not want any lettuce) and spill buffalo sauce all over the wrapping paper.</p>
 
-<p>Look dude, I get it. Working at Subway isn't exactly the glamorous lifestyle you envisioned for yourself. This isn't where you thought you would be at age 28. But please... "Do your job." This is the job that society has given you. Treat it with respect. There are billions of people in the world who would kill to have your blessings.</p>
-
-<p>Tom Brady takes his instructions from Bill Belichick. And you take yours from your manager, whoever that may be. But please, people, Do. Your. Job.</p>
+<p>Look dude, I get it. Working at Subway isn't exactly the glamorous lifestyle you envisioned for yourself. This isn't where you thought you would be at age 28. But please... Do. Your. Job. This is the job that society has given you. Treat it with respect. There are billions of people in the world who would kill to have your blessings.</p>
