@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  100 days of canned salmon
+title:  100 Days Of Canned Salmon
 date:   2015-12-09 10:00:27 -0500
 categories: god
 ---
