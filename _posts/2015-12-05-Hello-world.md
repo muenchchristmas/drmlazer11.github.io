@@ -1,7 +1,9 @@
+---
 layout: post
 title:  Hello world!
 date:   2015-12-05 12:04:49
 categories: miscellaneous
+---
 
 <p>Welcome to my blog! This site will host my thoughts for the foreseeable future. I will try to post as frequently as possible.</p>
 
