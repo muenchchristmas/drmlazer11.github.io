@@ -5,18 +5,14 @@ date:   2015-09-10 10:00:27 -0500
 categories: miscellaneous
 ---
 
-Life is fleeting, but a glimpse in time.
+<p>Life is fleeting, but a glimpse in time.
+Every second so precious - every moment so rare.</p>
 
-Every second so precious - every moment so rare.
+<p>As I sit here and contemplate, these memories we share,
+I can't help but wonder, just where | where | where.</p>
 
-As I sit here and contemplate, these memories we share,
+<p>I pray and I pray, oh and I hope and I hope,
+That these dreams and this promise, won't be lost to the cold.</p>
 
-I can't help but wonder, just where | where | where. 
-
-I pray and I pray, oh and I hope and I hope,
-
-That these dreams and this promise, won't be lost to the cold.
-
-Won't you do the same, won't you keep us afloat?
-
-Won't you do the same, won't you step off the boat?
+<p>Won't you do the same, won't you keep us afloat?
+Won't you do the same, won't you step off the boat?</p>
