@@ -5,7 +5,7 @@ date:   2015-12-08 10:00:27 -0500
 categories: miscellaneous
 ---
 
-<p>"What?!" "That's disgusting..." "You're crazy!" These are common responses I get upon telling people that I have eaten a pound of canned salmon every day for the past three months. My decision to embark on this radical diet is threefold: It's economical. It's healthy. And it's different.</p>
+<p>"What?!" "That's disgusting..." "You're crazy!" These are common responses I get upon telling people that I have eaten canned salmon every day for the past three months. My decision to embark on this radical diet is threefold: It's economical. It's healthy. And it's different.</p>
 
 <p>Financially speaking, canned salmon is a great way to save money. You can purchase a 14.75-ounce can for $2.50. In fact, every so often you can find a deal at Stop & Shop or Walgreens for as low as $1.99. Point being: canned salmon is going to make your wallet happy. As the co-founder of a bootstrapped startup who hadn't made a paycheck in years, this was necessary for me to keep our company afloat. Furthermore, unlike other foods like produce or fresh meat, canned salmon has a shelf life of five years. Waste, my friend, is a thing of the past.</p>
 
