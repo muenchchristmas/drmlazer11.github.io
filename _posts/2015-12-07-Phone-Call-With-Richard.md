@@ -7,7 +7,7 @@ categories: miscellaneous
 
 <p>I just got off the phone with a fellow entrepreneur, Richard Kim. We discussed a variety of things, but the majority of the conversation revolved around the topic of failure and how to embrace it. Throughout the call, Richard was quick to remind me that I had not failed, but rather that I had learned. And while I was aware of this fact, it was still assuring to hear it from a third party. Here are two points Richard made that I found interesting.</p>
 
-<h2>1. Technology & Platform</h2>
+<h3>1. Technology & Platform</h3>
 
 <p>Richard said something that took me by surprise. "I think if you guys had focused more on building out the backend platform, you would have received acquisition offers early on from large companies."</p>
 
@@ -15,7 +15,7 @@ categories: miscellaneous
 
 <p>I will say this, however. We set out from the very beginning with the goal of creating an online democracy. Andrew and I were hellbent on creating value for society rather than money for ourselves. And so in that sense, I'm not even sure we would have entertained takeover offers. That being said, everything in this world is for sale... at the right price.</p>
 
-<h2>2. Sales Engineering</h2>
+<h3>2. Sales Engineering</h3>
 
 <p>Job search was another significant piece of our conversation. Richard mentioned a role that I had never heard of, but one that sounded quite attractive: sales engineering. It's essentially equal parts sales, UI/UX, and backend programming. That's appealing to me because I know I would make a tremendous salesman, yet I also have a deep love for design and code.</p>
 
