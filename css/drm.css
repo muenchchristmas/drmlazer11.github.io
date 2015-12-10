@@ -155,36 +155,6 @@ h1 a { border-bottom: 0; }
 }
 
 /********************************************/
-/****************** Archive *****************/
-/********************************************/
-
-.archive { margin-bottom: 3rem; }
-
-.archive-item {
-	margin-bottom: 1rem;
-	overflow: auto;
-}
-
-.archive-item + .archive-year {
-	margin-top: 2rem;
-}
-
-.archive-date {
-	margin-top: 0;
-	margin-bottom: 0;
-}
-
-@media (min-width: 34rem) {
-	.archive-item {
-		margin-bottom: 1rem;
-	}
-	.archive-date {
-		float: right;
-		margin-left: 1rem;
-	}
-}
-
-/********************************************/
 /************** Blog Post List **************/
 /********************************************/
 
@@ -246,4 +216,34 @@ h1 a { border-bottom: 0; }
 
 .page-body > p:first-child {
 	font-size: 1.25rem;
+}
+
+/********************************************/
+/****************** Archive *****************/
+/********************************************/
+
+.archive { margin-bottom: 3rem; }
+
+.archive-item {
+	margin-bottom: 1rem;
+	overflow: auto;
+}
+
+.archive-item + .archive-year {
+	margin-top: 2rem;
+}
+
+.archive-date {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+@media (min-width: 34rem) {
+	.archive-item {
+		margin-bottom: 1rem;
+	}
+	.archive-date {
+		float: right;
+		margin-left: 1rem;
+	}
 }
