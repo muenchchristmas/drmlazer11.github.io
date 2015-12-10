@@ -17,4 +17,4 @@ categories: miscellaneous
 
 <h3>General feedback I've received</h3>
 
-<p>People usually warn me about mercury in fish. And while this is a valid concern, it's not entirely true. Salmon is extremely low on the <a href="https://en.wikipedia.org/wiki/Mercury_in_fish#Levels_of_contamination">food chain</a>, meaning its mercury levels are minimal.</p> 
+<p>People usually warn me about mercury in fish. And while this is a valid concern, it's not entirely true. Salmon is at the bottom of the <a href="https://en.wikipedia.org/wiki/Mercury_in_fish#Levels_of_contamination">food chain</a>, meaning its mercury levels are minimal.</p> 
