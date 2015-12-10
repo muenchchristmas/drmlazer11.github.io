@@ -15,11 +15,7 @@ categories: miscellaneous
 <li>3. Acoustic guitar</li>
 <li>4. New shoes, shirts and pants</li>
 <li>5. A few gifts for family and friends</li>
-<li>6. Donate</li>
-<li>7. Donate</li>
-<li>8. Donate</li>
-<li>9. Donate</li>
-<li>10. Donate</li>
+<li>6. Donate and save the rest</li>
 </ul>
 
-<p>I didn't put 6 - 10 to be a hardo. I've simply come to the realization that possessions are meaningless. Life is about giving and helping others. Spreading love and hope is <a href="https://www.youtube.com/watch?v=ylT16QB6Uig#t=0m28s">free99.</a></p>
+<p>I didn't put 6 to be a hardo. I've simply come to the realization that possessions are meaningless. Life is about giving and helping others. Spreading love and hope is <a href="https://www.youtube.com/watch?v=ylT16QB6Uig#t=0m28s">free99.</a></p>
