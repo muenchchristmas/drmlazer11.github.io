@@ -8,8 +8,11 @@ layout: default
       {{ page.title }}
     </h1>
     <span class="post-date">{{ page.date | date: "%B %e, %Y" }}</span>
-  </div>
-  <div class="post-body">
-    {{ content }}
+    <div class="tweet-button">
+      <a href="https://twitter.com/share" class="twitter-share-button" data-size="large" data-count="horizontal" data-via="drmlazer11" data-url="http://drmlazer11.github.io/2015/12/09/god-is-love/" data-text="{{ post.title }}">Tweet</a>
+    </div>
+    <div class="post-body">
+      {{ content }}
+    </div>
   </div>
 </div>
