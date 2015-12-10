@@ -7,7 +7,7 @@ categories: miscellaneous
 
 <p>I've been working for equity since the end of my accounting internship in 2011. In other words, my disposable income has been nonexistent for about five years. I can't even remember the last time I purchased a new shirt or a pair of pants. Distinguishing wants from needs has become second nature.</p>
 
-<p>But this got me to thinking: What will I purchase when I get a normal, salaried job again? Here's the list I came up with.</p>
+<p>But this got me to thinking: What will I buy when I get a normal, salaried job again? Here's the list I came up with.</p>
 
 <p>1. Cold-pressed juicer</p>
 <p>2. Electric keyboard</p>
