@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  My First Purchases
-date:   2015-12-09 10:00:27 -0500
+date:   2015-12-10 14:43:21 -0500
 categories: miscellaneous
 ---
 
