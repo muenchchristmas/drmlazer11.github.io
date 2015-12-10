@@ -13,6 +13,6 @@ Lastly, eating anything for 100 days straight, let alone canned salmon, is uniqu
 
 I will conclude by saying that the Salmon Challenge isn't for everyone - especially the faint of heart. For obvious reasons, canned salmon doesn't taste nearly as good as fresh salmon, and the repetition can break even the strongest of men and women. Don't say you weren't warned.
 
-<h2>Some feedback I've received</h2>
+<h3>Some feedback I've received</h3>
 
 People usually warn me about mercury in fish. While this is a valid concern, it's not entirely true. Salmon is extremely low on the <a href="https://en.wikipedia.org/wiki/Mercury_in_fish#Levels_of_contamination">food chain</a>, meaning its mercury levels are minimal. 
