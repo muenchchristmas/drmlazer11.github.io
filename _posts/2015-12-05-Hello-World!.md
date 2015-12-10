@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Hello world!
+title:  Hello World!
 date:   2015-12-05 12:04:49
 categories: miscellaneous
 ---
