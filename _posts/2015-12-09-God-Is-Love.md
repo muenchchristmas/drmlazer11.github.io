@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "God is Love"
+title:  "God Is Love"
 date:   2015-12-09 10:00:27 -0500
 categories: god
 ---
