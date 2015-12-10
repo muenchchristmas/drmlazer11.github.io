@@ -5,7 +5,7 @@ date:   2015-12-09 10:00:27 -0500
 categories: miscellaneous
 ---
 
-<p>I've been working for equity since the end of my accounting internship in 2011. In other words, my disposable income has been nonexistent for about five years. I honestly can't remember the last time I purchased a pair of pants or an accessory. Distinguishing wants from needs is second nature at this point.</p>
+<p>I've been working for equity since the end of my accounting internship in 2011. In other words, my disposable income has been nonexistent for about five years. I honestly can't remember the last time I purchased a new shirt or a pair of pants. Distinguishing wants from needs is second nature at this point.</p>
 
 <p>But this got me to thinking: What will I purchase when I get a normal, salaried job again? Here's the list I came up with. For the first five items, order is indicative of importance.</p>
 
