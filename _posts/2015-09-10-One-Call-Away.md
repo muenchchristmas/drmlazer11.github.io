@@ -19,4 +19,4 @@ categories: miscellaneous
 
 <p>Won't you do the same, won't you keep us afloat?</p>
 
-<p><em>Won't you do the same, won't you step off the boat?</em></p>
+<p>Won't you do the same, <em>won't you step off the boat?</em></p>
