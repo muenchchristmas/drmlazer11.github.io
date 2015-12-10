@@ -5,7 +5,7 @@ date:   2015-12-09 10:00:27 -0500
 categories: miscellaneous
 ---
 
-<p>I've been working for equity since the end of my accounting internship in 2011. My disposable income has been nonexistent for more than five years. Distinguishing wants from needs is second nature at this point. Tough, draining, exhausting. These are the adjectives that I would use to describe what it feels like to be broke. Today I was thinking about how abnormal my lifestyle has become due to this extreme lack of money. I can't remember the last time I purchased a new piece of clothing or a rad new accessory.</p>
+<p>I've been working for equity since the end of my accounting internship in 2011. In other words, my disposable income has been nonexistent for more than five years. Distinguishing wants from needs is second nature at this point. Tough, draining, exhausting. Those adjectives describe what it feels like to be broke. I can't even remember the last time I purchased a new piece of clothing or a new accessory.</p>
 
 <p>This got me to thinking: What will I purchase when I get a normal, salaried job again? Here's the list I came up with. For the first five items, order is indicative of importance.</p>
 
