@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  My First Purchases
+title:  Phone Call With Richard
 date:   2015-12-07 14:43:21 -0500
 categories: miscellaneous
 ---
