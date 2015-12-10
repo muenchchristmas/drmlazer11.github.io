@@ -13,8 +13,8 @@ categories: miscellaneous
 
 <p>Lastly, eating anything for 100 days straight, let alone canned salmon, is unique. It gives me an off-the-wall talking point. Who the hell eats canned salmon? Nobody. Nobody eats canned salmon! So when diet or nutrition comes up in conversation, I'm always excited to see people's faces after I tell them about my regimen.</p> 
 
-<p>I will conclude by saying that the Salmon Challenge isn't for everyone - especially the faint of heart. For obvious reasons, canned salmon doesn't taste nearly as good as fresh salmon, and the repetition can break even the strongest of men and women. Don't say you weren't warned.</p>
+<p>I will conclude by saying that the Salmon Challenge isn't for everyone - especially the faint of heart. For obvious reasons, canned salmon doesn't taste as good as fresh salmon, and the repetition can break even the strongest of men & women. Don't say you weren't warned. 😜</p>
 
-<h3>Some feedback I've received</h3>
+<h3>General feedback I've received</h3>
 
-<p>People usually warn me about mercury in fish. While this is a valid concern, it's not entirely true. Salmon is extremely low on the <a href="https://en.wikipedia.org/wiki/Mercury_in_fish#Levels_of_contamination">food chain</a>, meaning its mercury levels are minimal.</p> 
+<p>People usually warn me about mercury in fish. And while this is a valid concern, it's not entirely true. Salmon is extremely low on the <a href="https://en.wikipedia.org/wiki/Mercury_in_fish#Levels_of_contamination">food chain</a>, meaning its mercury levels are minimal.</p> 
