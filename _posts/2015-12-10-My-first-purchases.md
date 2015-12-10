@@ -20,4 +20,4 @@ categories: miscellaneous
 <p>9. Donate</p>
 <p>10. Donate</p>
 
-<p>I didn't put 6 - 10 to be a hardo. I've simply come to the realization that possessions are meaningless. Life is about giving and helping others. Spreading love and hope is free99.</p>
+<p>I didn't put 6 - 10 to be a hardo. I've simply come to the realization that possessions are meaningless. Life is about giving and helping others. Spreading love and hope is <a href="https://www.youtube.com/watch?v=ylT16QB6Uig#t=0m28s">free99.</a></p>
