@@ -15,7 +15,7 @@ categories: 🙏
 
 <p>I pray and I pray, oh and I hope and I hope,</p>
 
-<p>That these dreams and this promise, won't be lost to the cold.</p>
+<p>That these dreams and this promise, don't get lost in the cold.</p>
 
 <p>Won't you do the same, won't you keep us afloat?</p>
 
