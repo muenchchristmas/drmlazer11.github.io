@@ -15,4 +15,4 @@ categories: god
 
 <p>We've all been commissioned to bring about His kingdom on Earth. It's so easy in today's society to forget this palpable task. So if you ever want to talk about God's amazing grace, my email address is <a href="mailto:davidrmuench@gmail.com">davidrmuench@gmail.com</a> and my phone number is 860-794-6827. I would be happy to share my story with you!</p>
 
-If you wish to stay anonymous, you could listen to my favorite Christian song, <a href="https://www.youtube.com/watch?v=X_2qG22SPwU">Your Love Never Fails,</a> and let the Holy Spirit do His work.
+If you wish to stay anonymous, listen to my favorite Christian song, <a href="https://www.youtube.com/watch?v=X_2qG22SPwU">Your Love Never Fails,</a> and let the Holy Spirit do His work.
