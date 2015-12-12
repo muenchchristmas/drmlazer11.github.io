@@ -13,6 +13,6 @@ categories: god
 
 <p>The word 'perseveres' also refers to God's kingdom. When looking at how prevalent evil has become in today's society, it's easy to lose hope. A month ago, Islamic State terrorists raided multiple venues across Paris and massacred over a hundred people. It was the epitome of evil and senselessness. At surface level, it appears that evil may have regained its footing in this world. But we need to remember that God already won this battle through His Perfect Love at the cross. Jesus' Perfect Love will always persevere.</p>
 
-<p>We've all been commissioned to bring about His kingdom on Earth. It's so easy in today's society to forget this palpable task that we've been given. So if you ever want to talk about God's amazing grace, my email address is <a href="mailto:davidrmuench@gmail.com">davidrmuench@gmail.com</a> and my phone number is 860-794-6827. I would be happy to share my personal story with you!</p>
+<p>We've all been commissioned to bring about His kingdom on Earth. It's so easy in today's society to forget this palpable task. So if you ever want to talk about God's amazing grace, my email address is <a href="mailto:davidrmuench@gmail.com">davidrmuench@gmail.com</a> and my phone number is 860-794-6827. I would be happy to share my story with you!</p>
 
 If you wish to stay anonymous, you could listen to my favorite Christian song, <a href="https://www.youtube.com/watch?v=X_2qG22SPwU">Your Love Never Fails,</a> and let the Holy Spirit do His work.
