@@ -2,7 +2,7 @@
 layout: post
 title:  "God Is Love"
 date:   2015-12-09 10:00:27 -0500
-categories: god
+categories: ❤️😇
 ---
 
 <p>God is Love. You may have heard this phrase before. It's short and sweet. Yet in many respects, it's a difficult concept to grasp. Who <em>is</em> God? What <em>is</em> Love?</p>
