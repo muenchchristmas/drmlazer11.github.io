@@ -4,10 +4,10 @@ layout: default
 
 <div class="body">
   <div class="post">
+    <span class="post-date">{{ page.categories }} &nbsp;{{ page.date | date: "%B %e, %Y" }}</span>
     <h1>
       {{ page.title }}
     </h1>
-    <span class="post-date">{{ page.date | date: "%B %e, %Y" }} &nbsp;{{ page.categories }}</span>
     <div class="post-body" style="margin-top:2em">
       {{ content }}
     </div>
