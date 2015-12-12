@@ -2,7 +2,7 @@
 layout: post
 title:  "The Loss Of A Child"
 date:   2015-12-12 10:00:27 -0500
-categories: god
+categories: 👪
 ---
 
 <p>This week's youth group session was different than normal. Attendance was low because of the holiday season. So to compensate, both of the co-ed groups joined forces. Instead of trying to teach both lesson plans in unison, the group leaders decided that a freeform discussion made more sense.</p>
