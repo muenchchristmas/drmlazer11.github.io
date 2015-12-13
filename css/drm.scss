@@ -1,5 +1,5 @@
 ---
-### Front matter. This ensures that Jekyll properly reads the file.
+### Front matter to ensure that Jekyll properly reads the file.
 ---
 
 /********************************************/
@@ -127,6 +127,8 @@ h1 a { border-bottom: 0; }
 .container {
 	max-width: 32rem;
 	margin: 0 auto;
+	-webkit-transform: translate3d(0, 0, 0);
+		transform: translate3d(0, 0, 0);
 }
 
 .masthead:after {
