@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Designing With Animation"
-date:   2015-12-05 10:00:27 -0500
+date:   2015-12-13 10:00:27 -0500
 categories: 🎨
 ---
 
