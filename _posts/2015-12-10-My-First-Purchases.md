@@ -2,7 +2,7 @@
 layout: post
 title:  My First Purchases
 date:   2015-12-10 14:43:21 -0500
-categories: 💵🎼
+categories: 💵 🎼
 ---
 
 <p>I've been working for equity since the end of my accounting internship in 2011. In other words, my disposable income has been nonexistent for about five years. I can't even remember the last time I purchased a new shirt or a pair of pants. Distinguishing wants from needs has become second nature.</p>
