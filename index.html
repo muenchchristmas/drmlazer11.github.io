@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<div class="body">
-  <div class="archive display_none"> 
+<div class="body display_none">
+  <div class="archive"> 
     {% for post in site.posts %}
       <div class="archive-item">
         <span class="post-date archive-date">{{ post.date | date: "%B %e, %Y" }}</span>
@@ -17,8 +17,8 @@ layout: default
 
 <script>
   setTimeout(function() {
-    $('.archive').fadeIn(0);
-    $('.archive').addClass('animated slideInUp');
+    $('.body').fadeIn(0);
+    $('.body').addClass('animated slideInUp');
   }, 100);
 </script>
 <script src="/js/jquery-2.0.0.min.js"></script>
