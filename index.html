@@ -2,6 +2,15 @@
 layout: default
 ---
 
+<div id="loading-screen">
+  <div class="loader">
+    <div class="stick-1"></div>
+  	<div class="stick-2"></div>
+  	<div class="stick-3"></div>
+  	<div class="stick-4"></div>
+	</div>
+</div>
+
 <div class="body">
   <div class="archive"> 
     {% for post in site.posts %}
@@ -27,4 +36,8 @@ layout: default
     $(".archive-date").html({{ post.categories }});
     // alert('hello!');
   });
+</script>
+
+<script>
+  $("#loading-screen").fadeOut(3000);
 </script>
