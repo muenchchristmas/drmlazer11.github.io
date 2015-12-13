@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello there! I'm a Northeastern business alumnus turned developer and designer with a penchant for all things Web. I like to think outside the box and build unique tools.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+### A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[davidrmuench@gmail.com](mailto:davidrmuench@gmail.com)
