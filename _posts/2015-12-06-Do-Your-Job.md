@@ -2,7 +2,7 @@
 layout: post
 title:  "Do Your Job"
 date:   2015-12-06 10:00:27 -0500
-categories: ğŸŸí½”ğŸŸ
+categories: ğŸŸ
 ---
 
 <p>Love them or hate them, the New England Patriots have an amazing catchphrase: "Do Your Job." From starting quarterback to third string cornerback, each player has a specific role, and it's their duty to fulfill that role - whatever it may be. To me, this is how society ought to work.</p>
