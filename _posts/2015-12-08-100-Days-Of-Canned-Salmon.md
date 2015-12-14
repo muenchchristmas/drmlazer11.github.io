@@ -2,7 +2,7 @@
 layout: post
 title:  100 Days Of Canned Salmon
 date:   2015-12-08 10:00:27 -0500
-categories: 💪🐟
+categories: 🐟
 ---
 
 <p>"What?!" "That's disgusting..." "You're crazy!" These are common responses I get upon telling people that I have eaten canned salmon every day for the past three months. My decision to embark on this radical diet is threefold: It's economical. It's healthy. And it's different.</p>
