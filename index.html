@@ -7,10 +7,8 @@ layout: default
     <h2 class="archive-year">2015</h2>
     {% for post in site.posts %}
       <div class="archive-item">
-        <!-- <span class="archive-emoji">{{ post.categories }} &nbsp;&nbsp;</span> -->
         <!-- <span class="post-date archive-date">{{ post.date | date: "%B %e, %Y" }}</span> -->
         <span class="post-date archive-date">{{ post.date | date: "%B %e }}</span>
-        <!-- <span class="post-date archive-date">{{ post.categories }}</span> -->
         <a href="{{ site.baseurl }}{{ post.url }}" class="archive-title">
           {{ post.title }}
         </a>
