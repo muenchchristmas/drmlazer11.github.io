@@ -124,6 +124,7 @@ html {
 @media (min-width: 48em) {
 	html {
 		font-size: 1.3125em;
+		/*font-size: 1.375em;*/
 	}
 }
 
@@ -182,6 +183,7 @@ img {
 a {
 	font-weight: inherit;
 	line-height: inherit;
+	color: #222;
 	color: #333;
 	text-decoration: none;
 	-webkit-transition: all .1s;
@@ -269,15 +271,6 @@ h1 a { border-bottom: 0; }
 	margin-bottom: 4rem;
 }
 
-/*.post:after {
-	display: block;
-	content: "";
-	width: 80px;
-	height: 1px;
-	margin: 4rem auto;
-	background-color: #efefef;
-}*/
-
 .post img,
 .post iframe {
 	max-width: 100%;
@@ -307,7 +300,7 @@ h1 a { border-bottom: 0; }
 .archive { margin-bottom: 3rem; }
 
 .archive-item {
-	margin-bottom: 1rem;
+	margin-bottom: 1.25rem;
 	overflow: auto;
 }
 
@@ -315,14 +308,20 @@ h1 a { border-bottom: 0; }
 	margin-top: 2rem;
 }
 
+.archive-year {
+	margin-bottom: 1rem;
+}
+
 .archive-emoji {
-	display: none;
 	float: left;
 }
 
 .archive-date {
+	display: none;
 	margin-top: 0;
 	margin-bottom: 0;
+	/*padding-bottom:.2rem;*/
+	color: #c5c5c5;
 }
 
 @media (min-width: 34rem) {
@@ -330,10 +329,8 @@ h1 a { border-bottom: 0; }
 		margin-bottom: 1rem;
 	}
 	.archive-date {
+		display: block;
 		float: right;
 		margin-left: 1rem;
-	}
-	.archive-emoji {
-		display: block;
 	}
 }
