@@ -7,6 +7,7 @@ layout: default
     <h2 class="archive-year">2015</h2>
     {% for post in site.posts %}
       <div class="archive-item">
+        <span class="archive-emoji">{{ post.categories }}</span>
         <span class="post-date archive-date">{{ post.date | date: "%B %e, %Y" }}</span>
         <a href="{{ site.baseurl }}{{ post.url }}" class="archive-title">
           {{ post.title }}
@@ -19,3 +20,22 @@ layout: default
 {% include analytics.html %}
     
 <script src="/js/jquery-2.0.0.min.js"></script>
+
+<script type="text/javascript">
+	
+	function convert_emojis() {
+		$(".archive-emoji").each(function() {
+    	if (browser_type === 1) {
+    		var input = $(this).html();
+  			var output = emojione.shortnameToImage(input);
+    		$(this).html(output);
+    	}
+    	else {
+  			$(this).html('');
+  		}
+	  });
+	}
+	
+	convert_emojis();
+	
+</script>
