@@ -2,7 +2,7 @@
 layout: post
 title:  "One Call Away"
 date:   2015-12-05 10:00:27 -0500
-categories: ":hourglass_flowing_sand:"
+categories: ":one:"
 ---
 
 <p>Life is fleeting, but a glimpse in time.</p>
