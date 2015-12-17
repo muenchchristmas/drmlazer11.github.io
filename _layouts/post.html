@@ -16,5 +16,20 @@ layout: default
 </div>
 
 <script type="text/javascript">
+	
+	function convert_post_emojis() {
+		$(".date-emoji").each(function() {
+    	if (browser_type === 1) {
+    		var input = $(this).html();
+  			var output = emojione.shortnameToImage(input);
+    		$(this).html(output);
+    	}
+    	else {
+  			$(this).html({{ page.date | date: "%B %e, %Y" }});
+  		}
+	  });
+	}
+	
+	convert_post_emojis();
 
 </script>
