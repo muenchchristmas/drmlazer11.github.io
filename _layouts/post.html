@@ -7,7 +7,7 @@ layout: default
     <h1>
       {{ page.title }}
     </h1>
-    <span class="post-date">{{ page.date | date: "%B %e, %Y" }}</span>
+    <span class="post-date">{{ post.categories }} &nbsp;{{ page.date | date: "%B %e, %Y" }}</span>
     <div class="post-body" style="margin-top:2em">
       {{ content }}
     </div>
