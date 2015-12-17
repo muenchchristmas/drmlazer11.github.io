@@ -27,5 +27,24 @@
 
     {% include analytics.html %}
     
+    <script type="text/javascript">
+	
+	    function convert_emojis() {
+		    $(".archive-emoji").each(function() {
+    	    if (browser_type === 1) {
+    		    var input = $(this).html();
+  			    var output = emojione.shortnameToImage(input);
+    		    $(this).html(output);
+    	    }
+    	    else {
+  			    $(this).html('');
+  		    }
+	      });
+	    }
+	
+	    convert_emojis();
+	
+    </script>
+    
   </body>
 </html>
