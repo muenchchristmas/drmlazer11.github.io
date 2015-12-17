@@ -16,7 +16,8 @@ layout: default
 </div>
 
 <script type="text/javascript">
-	
+
+	setTimeout(function() {	
 	function convert_post_emojis() {
 		$(".date-emoji").each(function() {
     	if (browser_type === 1) {
@@ -31,5 +32,7 @@ layout: default
 	}
 	
 	convert_post_emojis();
+	
+	}, 2000);
 
 </script>
