@@ -2,7 +2,7 @@
 layout: post
 title:  "Some Funny Vines"
 date:   2015-12-18 00:01:24 -0500
-categories: ":joy_cat:"
+categories: ":stuck_out_tongue_winking_eye:"
 ---
 
 Sending y'all into the weekend with some hilarious Vines.
