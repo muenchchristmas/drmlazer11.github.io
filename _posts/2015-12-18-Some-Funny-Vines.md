@@ -10,7 +10,7 @@ Sending y'all into the weekend with some hilarious Vines.
 <p>I think there's something wrong with my Bopit...</p>
 <iframe src="https://vine.co/v/MvOq5DbATVr/embed/simple" width="600" height="600" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
 
-<p>FUCK YOU SAY?</p>
+<p>WHAT YOU SAY?</p>
 <iframe src="https://vine.co/v/iaXrgqgVtD2/embed/simple" width="600" height="600" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
 
 <p>THIS IS GARY. GARY HAS SOCIAL ANXIETY.</p>
