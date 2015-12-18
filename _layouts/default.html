@@ -30,14 +30,17 @@
     <script type="text/javascript">
     	function convert_emojis() {
     		$(".date-emoji, .archive-emoji").each(function() {
-    			if (browser_type === 1) {
+    			/*if (browser_type === 1) {
     				var input = $(this).html();
     				var output = emojione.shortnameToImage(input);
     				$(this).html(output);
     			}
     			else {
     				$(this).html('');
-    			}
+    			}*/
+    			var input = $(this).html();
+    			var output = emojione.shortnameToImage(input);
+    			$(this).html(output);
     		});
     	}
 	convert_emojis();
