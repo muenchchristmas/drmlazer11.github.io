@@ -7,7 +7,7 @@ categories: ":heart:"
 
 <p>God is Love. You may have heard this phrase before.</p>
 
-<h4>It's a difficult concept to grasp in many respects. Who <em>is</em> God? What <em>is</em> Love?</h4>
+<p>It's a difficult concept to grasp in many respects. Who <em>is</em> God? What <em>is</em> Love?</p>
 
 <p>Listen to what Paul says in 1 Corinthians: "Love is patient. Love is kind. It does not envy. It does not boast. It is not proud. It does not dishonor others. It is not self-seeking. It is not easily angered. It keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres." This is a Biblical description of Love.</p>
 
