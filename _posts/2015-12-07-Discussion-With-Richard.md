@@ -2,7 +2,7 @@
 layout: post
 title:  Discussion With Richard
 date:   2015-12-07 14:43:21 -0500
-categories: ":calling:"
+categories: ":telephone:"
 ---
 
 <p>I just got off the phone with a fellow entrepreneur, Richard Kim. We discussed a variety of things, but the majority of the conversation revolved around the topic of failure and how to embrace it. Throughout the call, Richard was quick to remind me that I had not failed, but rather that I had learned. And while I was aware of this fact, it was still assuring to hear it from a third party. Here are two points Richard made that I found interesting.</p>
