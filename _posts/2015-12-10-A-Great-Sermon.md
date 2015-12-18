@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Great Sermon"
-date:   2015-12-11 10:00:27 -0500
+date:   2015-12-10 10:00:27 -0500
 categories: ":open_mouth:"
 ---
 
