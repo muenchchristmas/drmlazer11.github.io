@@ -2,7 +2,7 @@
 layout: post
 title:  "Some Funny Vines"
 date:   2015-12-18 00:01:24 -0500
-categories: ":joy:"
+categories: ":joy_cat:"
 ---
 
 Sending y'all into the weekend with some hilarious Vines.
