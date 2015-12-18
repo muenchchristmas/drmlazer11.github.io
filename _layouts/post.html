@@ -8,9 +8,7 @@ layout: default
       {{ page.title }}
     </h1>
     <!-- <h1><span class="date-emoji">:sob::broken_heart</span></h1> -->
-    <span class="post-date">{{ page.date | date: "%B %e, %Y" }} &nbsp;<span class="date-emoji">{{ page.categories }}</span></span>
-    <!-- <span class="date-emoji">{{ page.categories }}</span> -->
-    <!-- <span class="date-emoji">:sob::broken_heart:</span> -->
+    <span class="post-date">{{ page.date | date: "%B %e, %Y" }}<span class="date-emoji"> &nbsp;{{ page.categories }}</span></span>
     <div class="post-body" style="margin-top:2em">
       {{ content }}
     </div>
@@ -18,23 +16,3 @@ layout: default
 </div>
 
 <script src="/js/jquery-2.0.0.min.js"></script>
-
-<script type="text/javascript">
-
-	// alert('ok');
-	/*function convert_post_emojis() {
-		$(".date-emoji").each(function() {
-			if (browser_type === 1) {
-				var input = $(this).html();
-				var output = emojione.shortnameToImage(input);
-				$(this).html(output);
-			}
-			else {
-				$(this).html({{ page.date | date: "%B %e, %Y" }});
-			}
-		});
-	}
-	
-	convert_post_emojis();*/
-
-</script>
