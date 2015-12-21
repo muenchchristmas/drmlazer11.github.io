@@ -2,7 +2,7 @@
 layout: post
 title:  "A Mockup For SlapFive"
 date: 2015-12-21 12:04:49
-categories: ":iphone:"
+categories: ":writing_hand_tone2:"
 ---
 
 <p>Yesterday I designed a mockup for a company called SlapFive. SlapFive is looking to become a B2B, mobile-first customer success platform where knowledge is shared via short audio and video messages. This was their use case:</p>
