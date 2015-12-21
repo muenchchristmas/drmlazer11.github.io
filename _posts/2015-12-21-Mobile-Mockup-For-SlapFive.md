@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "A Mockup For SlapFive"
+title:  "Mobile Mockup For SlapFive"
 date: 2015-12-21 12:04:49
-categories: ":art:"
+categories: ":iphone:"
 ---
 
 <p>Yesterday I designed a mockup for a company called SlapFive. SlapFive is looking to become a B2B, mobile-first customer success platform where knowledge is shared via short audio and video messages. This was their use case:</p>
