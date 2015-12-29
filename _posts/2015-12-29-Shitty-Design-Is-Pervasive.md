@@ -7,7 +7,7 @@ categories: ":poop:"
 
 <p>The annual Miss Universe competition was held in Las Vegas last week, and much like every year, there were scores of young women with beautiful faces and gorgeous bodies from across the globe. But this year's show took a novel turn when the host, Steve Harvey, mistakenly announced that Miss Colombia was the new Miss Universe. In actuality, Miss Colombia was the "1st Runner Up" and Miss Philippines was the winner. After a minute or two of Miss Colombia smiling ear-to-ear and waving her thanks to the crowd, Harvey had to return to the stage to reveal his error. It was painfully awkward to watch.</p>
 
-<p>Memes and videos of the blunder immediately went viral. Some comics captured the embarrassment on Harvey's face, while others caught the bewilderment in Miss Colombia's eyes. The accident was the butt of many jokes for about a week.</p> 
+<p>Memes and videos of the blunder immediately went viral. Some comics captured the embarrassment on Harvey's face, while others caught the bewilderment in Miss Colombia's eyes. Harvey's accident was the butt of many jokes for about a week.</p> 
 
 <p>Here's my favorite meme, which was released on Christmas day.</p>
 
