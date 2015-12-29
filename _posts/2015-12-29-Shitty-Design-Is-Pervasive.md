@@ -23,4 +23,4 @@ It's easy to chirp from the cheap seats. So I decided to create my own score car
 
 <img style="box-shadow: 0 0 15px rgba(0, 0, 0, .25);" src="http://i.imgur.com/4D5g0WX.png">
 
-To conclude I'll say this: Design is everywhere. It's how you built that stair case. It's how you structured that database. And it's how you painted that canoe. Designers: Let's start taking more pride in our work. From this example we know that it saves a lot of embarrassment. But there will also be times when it saves a lot of lives.
+To conclude I'll say this: Design is everywhere. It's how you built that stair case. It's how you structured that database. And it's how you painted that canoe. Designers: Let's start taking more pride in our work. From this example we know that it can save a lot of embarrassment. But there will also be times when it can save a lot of lives.
