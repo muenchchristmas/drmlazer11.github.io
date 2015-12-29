@@ -11,7 +11,6 @@ categories: ":thumbs_down:"
 
 <p>Here's my favorite meme, which was released on Christmas day.</p>
 
-<img src="http://i.imgur.com/aGeNlAu.png">
 <img src="http://i.imgur.com/XyxW68b.jpg">
 
 This brings me to the point of my post: Shitty design is pervasive. A couple days ago I was on LinkedIn and came across a photo of the "score card" that Harvey was handed. 
