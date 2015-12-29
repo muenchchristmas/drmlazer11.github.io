@@ -21,6 +21,6 @@ When I saw this photo, I instantly felt bad for Harvey. This is <em>abysmal</em>
 
 It's easy to chirp from the cheap seats. So I decided to create my own score card that I think would have prevented this mistake. Three iterations and about two and a half hours later, this is what I came up with. 
 
-<img src="http://i.imgur.com/4D5g0WX.png">
+<img style="box-shadow: 0 0 15px rgba(0, 0, 0, .25);" src="http://i.imgur.com/4D5g0WX.png">
 
 To conclude I'll say this: Design is everywhere. It's how you built that stair case. It's how you structured that database. And it's how you painted that canoe. Designers: Let's start taking more pride in our work. From this example we know that it saves a lot of embarrassment. But there will also be times when it saves a lot of lives.
