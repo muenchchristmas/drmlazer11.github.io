@@ -2,7 +2,7 @@
 layout: post
 title:  Shitty Design Is Pervasive
 date: 2015-12-29 12:04:49
-categories: ":thumbsdown_tone2:"
+categories: ":thumbsdown:"
 ---
 
 <p>The annual Miss Universe competition was held in Las Vegas last week, and much like every year, there were scores of young women with beautiful faces and gorgeous bodies from across the globe. But this year's show took a novel turn when the host, Steve Harvey, mistakenly announced that Miss Colombia was the new Miss Universe. In actuality, Miss Colombia was the "1st Runner Up" and Miss Philippines was the winner. After a minute or two of Miss Colombia smiling ear-to-ear and waving her thanks to the crowd, Harvey had to return to the stage to reveal his error. It was painfully awkward to watch.</p>
