@@ -3,9 +3,26 @@ layout: default
 ---
 
 <div class="body">
-  <div class="archive"> 
-    <h2 class="archive-year">2015</h2>
-    {% for post in site.posts %}
+	<div class="archive"> 
+    <!-- <h2 class="archive-year">2015</h2> -->
+    		{% for post in site.posts %}
+    			{% assign currentdate = post.date | date: "%Y" %}
+    			{% if currentdate != date %}
+    				{% unless forloop.first %}</ul>{% endunless %}
+    				<h1 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h1>
+    				<ul>
+    				{% assign date = currentdate %}
+    			{% endif %}
+    			<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    			{% if forloop.last %}
+    				</ul>
+    			{% endif %}
+		{% endfor %}
+	</div>
+</div>
+    
+    
+    <!-- {% for post in site.posts %}
       <div class="archive-item">
         <span class="archive-emoji">{{ post.categories }} &nbsp;&nbsp;&nbsp;</span>
         <span class="post-date archive-date">{{ post.date | date: "%B %e, %Y" }}</span>
@@ -15,27 +32,8 @@ layout: default
       </div>
     {% endfor %}
   </div>
-</div>
+</div> -->
 
 {% include analytics.html %}
     
 <script src="/js/jquery-2.0.0.min.js"></script>
-
-<!-- <script type="text/javascript">
-	
-	function convert_emojis() {
-		$(".archive-emoji").each(function() {
-    	if (browser_type === 1) {
-    		var input = $(this).html();
-  			var output = emojione.shortnameToImage(input);
-    		$(this).html(output);
-    	}
-    	else {
-  			$(this).html('');
-  		}
-	  });
-	}
-	
-	convert_emojis();
-	
-</script> -->
