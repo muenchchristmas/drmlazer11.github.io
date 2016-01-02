@@ -2,7 +2,7 @@
 layout: post
 title:  Happy New Year
 date: 2016-01-01 12:04:49
-categories: ":grin:"
+categories: ":smiley:"
 ---
 
 <p>Happy New Year!</p>
