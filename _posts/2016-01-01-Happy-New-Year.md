@@ -17,7 +17,7 @@ categories: ":grin:"
 
 <p>Thank you for the courage I have to hold strong and stand up amid personal challenge and be the support for others' adversity, no matter the weight.</p>
 
-<p>Thank you for my best friends and my best man David who look through my lens and analyze my condition and my outlook for the only mission that matters.</p>
+<p>Thank you for my best friends who look through my lens and analyze my condition and my outlook for the only mission that matters.</p>
 
 <p>I pray 2016 is a good year.</p>
 
