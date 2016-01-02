@@ -2,12 +2,8 @@
 layout: post
 title:  Happy New Year
 date: 2016-01-01 12:04:49
-categories: ":thinking:"
+categories: ":grin:"
 ---
-
-<p>My brother's email auto-response for New Years Day is awesome.</p>
-
-<span style="color: #999;">
 
 <p>Happy New Year!</p>
 
@@ -26,5 +22,3 @@ categories: ":thinking:"
 <p>I pray 2016 is a good year.</p>
 
 <p>Jesus, amen.</p>
-
-</span>
