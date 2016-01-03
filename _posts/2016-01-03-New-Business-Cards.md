@@ -16,6 +16,4 @@ categories: ":necktie:"
 <p>Life, death. Good, evil. Day, night. Warm, cold. Left, right. Masculine, feminine. Leader, follower. And the list goes on.</p>
 
 <h3>I'm a big fan of minimalism.</h3>
-<p>Black and white represents simplicity and no-bullshit. Don't beat around the bush; tell it to me how it is!</p>
-
-<p>What's the point of a business card? It's to tell the person you're connecting with how to contact you. In my opinion, putting your location, twitter handle or personal website is superfluous information.</p>
+<p>Black and white represents simplicity and no-bullshit. Don't beat around the bush; tell it to me how it is! What's the point of a business card? It's to tell the person you're connecting with how to contact you. In my opinion, putting your location, twitter handle or personal website is superfluous information.</p>
