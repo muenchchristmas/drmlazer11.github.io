@@ -2,7 +2,7 @@
 layout: post
 title:  New Business Cards
 date: 2016-01-03 12:04:49
-categories: ":yinyang:"
+categories: ":black:"
 ---
 
 <img src="http://i.imgur.com/KeE97tS.png">
