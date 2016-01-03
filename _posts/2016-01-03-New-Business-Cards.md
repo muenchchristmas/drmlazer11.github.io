@@ -5,7 +5,7 @@ date: 2016-01-03 12:04:49
 categories: ":suit_and_tie:"
 ---
 
-<img style="box-shadow: 0 0 15px rgba(0, 0, 0, .25);" src="http://i.imgur.com/KeE97tS.png">
+<img style="box-shadow: 0 0 15px rgba(0, 0, 0, .25);" src="http://i.imgur.com/RaNED2M.png">
 
 <p>This afternoon I designed my new business cards. I landed on a black and white theme for a few reasons.</p>
 
