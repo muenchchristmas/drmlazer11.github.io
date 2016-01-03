@@ -2,7 +2,7 @@
 layout: post
 title:  New Business Cards
 date: 2016-01-03 12:04:49
-categories: ":suit_and_tie:"
+categories: ":yin_yang:"
 ---
 
 <img style="box-shadow: 0 0 15px rgba(0, 0, 0, .25);" src="http://i.imgur.com/RaNED2M.png">
