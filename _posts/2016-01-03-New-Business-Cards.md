@@ -17,3 +17,7 @@ categories: ":necktie:"
 
 <h3>I'm a big fan of minimalism.</h3>
 <p>Black and white represents simplicity and no-bullshit. Don't beat around the bush; tell it to me how it is! What's the point of a business card? It's to tell the person you're connecting with how to contact you. In my opinion, putting your location, twitter handle or personal website is superfluous information.</p>
+
+<h3>Oh yeah, and these cookies are fucking delicious.</h3>
+<p>Nuff said.</p>
+<img src="http://i.imgur.com/ax3q5oZ.jpg">
