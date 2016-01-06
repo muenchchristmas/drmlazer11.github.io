@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Rule No. 76
+title:  No Excuses
 date: 2016-01-05 12:04:49
 categories: ":trophy:"
 ---
