@@ -10,11 +10,11 @@ categories: ":dollar:"
 <p>But this got me to thinking: What will I buy when I get a normal, salaried job again? Here's the list I came up with.</p>
 
 <p>1. Book about how the human eye works</p>
-<p style="padding-top:-1rem;">2. Cold-pressed juicer</p>
-<p style="padding-top:-1rem;">3. Electric keyboard</p>
-<p style="padding-top:-1rem;">4. Acoustic guitar</p>
-<p style="padding-top:-1rem;">5. New shoes, shirts and pants</p>
-<p style="padding-top:-1rem;">6. Gifts for family and friends</p>
-<p style="padding-top:-1rem;">7. Donate and save the rest</p>
+<p style="margin-top:-1rem;">2. Cold-pressed juicer</p>
+<p style="margin-top:-1rem;">3. Electric keyboard</p>
+<p style="margin-top:-1rem;">4. Acoustic guitar</p>
+<p style="margin-top:-1rem;">5. New shoes, shirts and pants</p>
+<p style="margin-top:-1rem;">6. Gifts for family and friends</p>
+<p style="margin-top:-1rem;">7. Donate and save the rest</p>
 
 <p>I didn't put 7 to be a hardo. I've simply come to the realization that possessions are meaningless. Life is about giving and helping others. Spreading love and hope is <a href="https://www.youtube.com/watch?v=ylT16QB6Uig#t=0m28s">free99.</a></p>
