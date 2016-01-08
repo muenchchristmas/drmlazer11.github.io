@@ -2,7 +2,7 @@
 layout: post
 title:  Grumpy Wizards
 date: 2016-01-07 12:04:49
-categories: ":magic:"
+categories: ":thinking:"
 ---
 
 <p>I've been designing my brother's personal site for the past couple days, and as a result, I've spent a ton of time on Google Fonts. For those of you who aren't Web designers, Google Fonts is the bee's knees. It's hundreds of fonts that can be implemented on your website in seconds using a simple script. But there's one thing I don't like about it. And it doesn't have anything to do with Google or the product itself. It relates to the stock sentence that is used to present fonts to users.
